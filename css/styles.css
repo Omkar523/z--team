@@ -7,7 +7,7 @@ html{
   color: white;
     font-family: 'Roboto Condensed';
 	
-  padding-bottom: 15rem;
+  padding-bottom: 20rem;
 }
 
 @media (max-width: 900px) {
@@ -17,7 +17,7 @@ html{
 }
   .title-div{
     text-align: center;
-	  padding-bottom: 30rem;
+	  padding-bottom: 50rem;
   }
 
 
@@ -216,10 +216,10 @@ svg {
 
 .testimonial-text{
   border-radius: 10%;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: grey;
+  
   box-shadow: white;
-  color: black;
+  color: white;
     text-shadow: 0 4px 8px 0 white 0 6px 20px 0 grey;
 }
 
