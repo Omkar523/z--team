@@ -6,12 +6,13 @@ html{
   background-color: BLACK;
   color: white;
     font-family: 'Roboto Condensed';
-    padding-bottom: 8rem;
+  
 }
 
 @media (max-width: 900px) {
   .title-div{
     text-align: center;
+	    padding-bottom: 4rem;
   }
 
 
