@@ -6,7 +6,8 @@ html{
   background-color: BLACK;
   color: white;
     font-family: 'Roboto Condensed';
-  
+	
+  padding-bottom: 15rem;
 }
 
 @media (max-width: 900px) {
