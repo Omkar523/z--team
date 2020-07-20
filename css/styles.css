@@ -10,6 +10,10 @@ html{
 }
 
 @media (max-width: 900px) {
+	#title{
+  padding-bottom: 10rem;
+
+}
   .title-div{
     text-align: center;
 	    padding-bottom: 4rem;
@@ -23,7 +27,7 @@ html{
 
   }
   .title-img {
-    margin-top: 2rem;
+    margin-top: 4rem;
     padding: 20px 0;
   }
 
@@ -33,6 +37,7 @@ html{
       width: auto;
       font-size: 1.5rem;
       margin-top: 3rem;
+	  margin-bottom:3rem;
   }
 
 
